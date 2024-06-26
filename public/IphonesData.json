@@ -1,0 +1,43 @@
+{
+	"products": [
+		{
+			"product_id": 1,
+			"product_url": "https://www.apple.com/ipad-pro/",
+			"product_name": "iPad Pro",
+			"description_id": 1,
+			"product_brief_description": "Thinpossible.",
+			"product_description": "Thinpossible.",
+			"product_img": "https://www.apple.com/v/ipad-pro/aq/images/overview/contrast/product-tile/ipad_air__crdt2g2u9z0i_large.jpg",
+			"product_link": "https://www.apple.com/ipad-pro/",
+			"price_id": 1,
+			"starting_price": "From $999.",
+			"price_range": "From $999 or $83.25/mo. for 12 mo.**"
+		},
+		{
+			"product_id": 2,
+			"product_url": "https://www.apple.com/macbook-air/",
+			"product_name": "MacBook Air",
+			"description_id": 2,
+			"product_brief_description": "Twice the speed. Twice the storage.",
+			"product_description": "Twice the speed. Twice the storage.",
+			"product_img": "https://www.apple.com/v/macbook-air/s/images/overview/hero/hero_static__c9sislzzicq6_large.jpg",
+			"product_link": "https://www.apple.com/macbook-air/",
+			"price_id": 2,
+			"starting_price": "From $999.",
+			"price_range": "From $999 or $83.25/mo. for 12 mo.**"
+		},
+		{
+			"product_id": 3,
+			"product_url": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+			"product_name": "iPhone 11 Pro",
+			"description_id": 3,
+			"product_brief_description": "Pro cameras. Pro display. Pro performance.",
+			"product_description": "Pro cameras. Pro display. Pro performance.",
+			"product_img": "https://www.apple.com/newsroom/images/product/iphone/lifestyle/Apple_iPhone-11-Pro_Most-Powerful-Advanced_091019_big.jpg.large.jpg",
+			"product_link": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+			"price_id": 3,
+			"starting_price": "From $999.",
+			"price_range": "From $24.95/mo. or $599 with trade‑in."
+		}
+	]
+}

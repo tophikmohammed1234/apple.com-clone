@@ -1,0 +1,43 @@
+{
+	"products": [
+		{
+			"product_id": 1,
+			"product_url": "macair13-15",
+			"product_name": "MacBook Air 13” and 15”",
+			"description_id": 1,
+			"product_brief_description": "Strikingly thin and fast so you can work, play, or create anywhere.",
+			"product_description": "M2 or M3 chip",
+			"product_img": "https://www.apple.com/v/macbook-air/s/images/overview/hero/hero_static__c9sislzzicq6_large.jpg",
+			"product_link": "https://www.apple.com/mac/",
+			"price_id": 1,
+			"starting_price": "$999.",
+			"price_range": "From $999 or $83.25/mo. for 12 mo.**"
+		},
+		{
+			"product_id": 2,
+			"product_url": "macair14-15",
+			"product_name": "MacBook Pro 14” and 16”",
+			"description_id": 2,
+			"product_brief_description": "The most advanced Mac laptops for demanding workflows.",
+			"product_description": "M3, M3 Pro, or M3 Max chip",
+			"product_img": "https://www.apple.com/v/macbook-pro-14-and-16/e/images/overview/hero/hero_intro_endframe__e6khcva4hkeq_large.jpg",
+			"product_link": "https://www.apple.com/mac/",
+			"price_id": 2,
+			"starting_price": "$1599.",
+			"price_range": "From $1599 or $133.25/mo. for 12 mo.**"
+		},
+		{
+			"product_id": 3,
+			"product_url": "imac",
+			"product_name": "iMac",
+			"description_id": 2,
+			"product_brief_description": "The world’s best all‑in‑one computer, now supercharged by the M3 chip. With a stunning 24‑inch display1 that gives you all the space you need and an iconic design that livens up any space, iMac is perfect for work and play.",
+			"product_description": "Packed with more juice.",
+			"product_img": "https://www.apple.com/v/imac/p/images/overview/color_front_green__eb8qbnemmre6_large.jpg",
+			"product_link": "https://www.apple.com/imac/",
+			"price_id": 2,
+			"starting_price": " $1299.",
+			"price_range": "From $1299 or $108.25/mo. for 12 mo.**"
+		}
+	]
+}
