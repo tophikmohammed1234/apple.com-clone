@@ -16,10 +16,13 @@ For the front end, I wanted to make the current [apple.com](https://www.apple.co
 
 Live:https://apple-clone-by-tophik.netlify.app/
 
-# Stack
+## Technologies Used
 
 - React
-
+- CSS
+- jquery
+- bootstrap
+  
 # APIs
 
 - YouTube from Google Cloud [click](https://console.cloud.google.com/apis/)
