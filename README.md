@@ -1,6 +1,6 @@
 # Apple-Clone 
 
-Apple.com clone web app that is built using React.js and fetch data from a json file found in public folder.
+Apple.com clone web app that is built using React.js and fetch data from a json file found in public folder and youtube api.
 
 # Motivation
 
